@@ -1,6 +1,7 @@
 ### Hi there 👋
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Hi there, I'm Dmitrii</h1> 
+<h3 align="center">I study Computer science and development. </h3>
+<h3 align="center">And i'm from Siberia. </h3>
   
 <!--
 **SpaceSurfer999/SpaceSurfer999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
