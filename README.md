@@ -1,6 +1,6 @@
 <h1 align="center">🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​🇩​​🇲​​🇮​​🇹​​🇷​​🇮​​🇮​ 👋🏻</h1> 
 <h3 align="center">𝕀 𝕤𝕥𝕦𝕕𝕪 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥.🎓 </h3>
-<h3 align="center">𝔸𝕟𝕕 𝕚'𝕞 𝕗𝕣𝕠𝕞 𝕊𝕚𝕓𝕖𝕣𝕚𝕒, ℝ𝕦𝕤𝕤𝕚𝕒  🇷🇺 🪆🐻</h3>
+<h3 align="center">Ａｎｄ ｉ＇ｍ ｆｒｏｍ Ｓｉｂｅｒｉａ， Ｒｕｓｓｉａ 🇷🇺 🪆🐻</h3>
 
 
 ### 🔭 I’m currently working on air pollution research in my region.
