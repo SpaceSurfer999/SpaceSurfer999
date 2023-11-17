@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Dmitrii 👋🏻</h1> 
 <h3 align="center">I study Computer Science and Development. </h3>
 <h3 align="center">And i'm from Siberia Russia  🇷🇺 🪆🐻</h3>
+
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
   
 <!--
 **SpaceSurfer999/SpaceSurfer999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
