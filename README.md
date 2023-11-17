@@ -1,4 +1,4 @@
-### Hi there, I'm Dmitrii 👋
+
 ### I study Computer Science and Development.
 ### And i'm from Siberia  🇷🇺. 🪆🐻
 
