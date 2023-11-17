@@ -10,7 +10,7 @@
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: highcontrast)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
@@ -18,6 +18,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+
+
 ##  My Leetcode
 [![Space Surfer's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SpaceSurfer999&theme=dark)](https://github.com/SpaceSurfer999/leetcode-stats)
 
