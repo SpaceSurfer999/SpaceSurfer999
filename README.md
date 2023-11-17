@@ -5,13 +5,13 @@
 
 ### 🔭 I’m currently working on air pollution research in my region.
 
+
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  My Leetcode
 [![Space Surfer's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SpaceSurfer999&theme=dark)](https://github.com/SpaceSurfer999/leetcode-stats)
 
-## My Codewars
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Space_Surfer/badges/large)
 
 ## My Skill's
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,7 +28,7 @@
 
 
 
- ![](https://komarev.com/ghpvc/SpaceSurfer999)
+ ![](https://komarev.com/ghpvc/?username=SpaceSurfer999)
 <!--
 
 Here are some ideas to get you started:
