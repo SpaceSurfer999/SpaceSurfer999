@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Dmitrii 👋
+### I study Computer Science and Development.
+### And i'm from Siberia  🇷🇺. 🪆🐻
+
 <h1 align="center">Hi there, I'm Dmitrii</h1> 
 <h3 align="center">I study Computer science and development. </h3>
 <h3 align="center">And i'm from Siberia  🇷🇺. 🪆🐻</h3>
