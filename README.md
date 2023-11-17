@@ -11,7 +11,11 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SpaceSurfer999&theme=dark)](https://github.com/SpaceSurfer999/leetcode-stats)
 
 ## My Codewars
-[![codewars][(https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Space_Surfer/badges/large)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Space_Surfer/badges/large)
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username) 
+
+https://www.codewars.com/users/Space_Surfer/badges/large
+
  
 <!--
 
