@@ -6,8 +6,11 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Space_Surfer)
+###  My Leetcode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SpaceSurfer999&theme=dark)](https://github.com/SpaceSurfer999/leetcode-stats)
+
+## My Codewars
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Space_Surfer)
  
 <!--
 
