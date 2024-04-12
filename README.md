@@ -3,9 +3,6 @@
 <h3 align="center">And i'm from Siberia, Russia. ❄️🐻🪆 </h3>
 
 
-### 🔭 I’m currently working on air pollution research in my region.
-
-
 ##  My Leetcode
 [![Space Surfer's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SpaceSurfer999&theme=dark)](https://github.com/SpaceSurfer999/leetcode-stats)
 
